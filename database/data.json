@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Muhammad Hilmi",
+    "height": "70",
+    "weight": "60.0",
+    "birthdate": "1985-04-17",
+    "married": "Yes"
+  },
+  {
+    "name": "Rey Adzka",
+    "height": "65",
+    "weight": "55",
+    "birthdate": "2000-10-18",
+    "married": "Yes"
+  },
+  {
+    "name": "Rendra Andra",
+    "height": "70",
+    "weight": "50.4",
+    "birthdate": "1968-05-15",
+    "married": "Yes"
+  },
+  {
+    "name": "Alysha Maryam",
+    "height": "60",
+    "weight": "70",
+    "birthdate": "1925-12-12",
+    "married": "Yes"
+  }
+]
